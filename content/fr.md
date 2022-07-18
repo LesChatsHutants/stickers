@@ -68,3 +68,24 @@
 
 > Si deux atomes ne peuvent pas se toucher réellement, vous
 > êtes peut-être actuellement en lévitation dans votre culotte.
+
+# 016 - Les guerres des autres
+
+> Nos guerres valent-elle plus que celles des autres ?
+
+# 017 - Intelligents ou populaires
+
+> Vaut-il mieux écouter les gens les plus intelligents ou les plus populaires ?
+
+
+# 018 - Bétise ou malveillance
+
+> Doit-on attribuer à la malveillance ce que la bétise suffit à expliquer ?
+> -- Robert J. Hanlon
+
+
+# 019 - Raison et choix
+
+> La raison ne servirait-elle pas tant à guider nos choix qu'à inférer des
+> raisons pour les justifier ?
+> -- Jean-Claude Dreher
