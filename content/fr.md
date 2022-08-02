@@ -83,9 +83,13 @@
 > Doit-on attribuer à la malveillance ce que la bétise suffit à expliquer ?
 > -- Robert J. Hanlon
 
-
 # 019 - Raison et choix
 
 > La raison ne servirait-elle pas tant à guider nos choix qu'à inférer des
 > raisons pour les justifier ?
 > -- Jean-Claude Dreher
+
+# 020 - Le juste milieu extrême
+
+> Le juste milieu ne peut-il pas aussi s'exprimer dans l'égal
+> possibilité des extrêmes ?
